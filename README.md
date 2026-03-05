@@ -3,8 +3,11 @@
 This project aims to develop an AI model to categorize citizen complaints from the **Traffy Fondue** platform in Bangkok. The goal is to automatically route these issues to the responsible government agencies or organizations. Since a single complaint can involve multiple organizations, this problem is framed as a **Multi-label Text Classification** task.
 
 > **🎓 Academic Project**
+
 > This project is a part of the **2110446 DSDE - Data Science and Data Engineering** course.
+
 > Semester: **2/2025** | **Engineering** | **Chulalongkorn University**
+
 > Developed by: **Thara Waranuset**
 
 ---
